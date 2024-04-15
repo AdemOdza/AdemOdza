@@ -7,6 +7,7 @@ You can click the Preview link to take a look at your changes.
 ## About me
 
 I am currently pursuing my Master's degree in CyberSecurity
+
 Interests:
 - Functional programming
 - Security
